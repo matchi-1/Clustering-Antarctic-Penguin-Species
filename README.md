@@ -1,4 +1,4 @@
-### A short DataCamp project for [Clustering Antarctic Penguin Species](https://app.datacamp.com/learn/projects/1809)
+### DataCamp project link: [Clustering Antarctic Penguin Species](https://app.datacamp.com/learn/projects/1809)
 
 The dataset is available in the data folder as `penguins.csv`
 
